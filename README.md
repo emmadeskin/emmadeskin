@@ -22,7 +22,7 @@ from automated ultrasound imaging systems to embedded wearables to CFD simulatio
 ## 📫 Contact
 📧 emmadeskin@gmail.com
 🔗 linkedin.com/in/emma-deskin
-📍 Manhattan Beach, CA
+📍 Leawood, KS
 <!--
 **emmadeskin/emmadeskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
