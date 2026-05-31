@@ -14,10 +14,10 @@ from automated ultrasound imaging systems to embedded wearables to CFD simulatio
 ## 📁 Projects
 | Project | Description | Tools |
 |---|---|---|
-| [Ultrasound Foot Scanner](#) | Automated 3D weight-bearing ultrasound scanner for PCFD diagnosis | MATLAB, Teensy, Verasonics, SolidWorks |
-| [Carotid Hemodynamics](#) | CFD + physical flow visualization of carotid artery blood flow | ANSYS Fluent, ImageJ, Meshmixer |
-| [Heat Stress Wearable](#) | Wireless wearable for real-time physiological heat stress monitoring | Raspberry Pi, Arduino, SolidWorks |
-| [Jumping Kinematics](#) | Motion capture analysis of jump mechanics | Kinovea, MATLAB |
+| [Ultrasound Foot Scanner](https://github.com/emmadeskin/ultrasound-foot-scanner) | Automated 3D weight-bearing ultrasound scanner for PCFD diagnosis | MATLAB, Teensy, Verasonics, SolidWorks |
+| [Carotid Hemodynamics](https://github.com/emmadeskin/carotid-hemodynamic-analysis) | CFD + physical flow visualization of carotid artery blood flow | ANSYS Fluent, ImageJ, Meshmixer |
+| [Heat Stress Wearable](https://github.com/emmadeskin/heat-stress-wearable) | Wireless wearable for real-time physiological heat stress monitoring | Raspberry Pi, Arduino, SolidWorks |
+| [Jumping Kinematics](https://github.com/emmadeskin/jumping-kinematics-analysis) | Motion capture analysis of jump mechanics | Kinovea, MATLAB |
 
 ## 📫 Contact
 📧 emmadeskin@gmail.com
